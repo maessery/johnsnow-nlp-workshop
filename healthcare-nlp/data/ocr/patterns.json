@@ -1,3 +1,0 @@
-{"id": "ref", "label": "REF", "patterns": ["\\d{4}-\\d{2}-\\d{3}"]}
-{"id": "date", "label": "DATE", "patterns": ["\\d{4}-\\d{2}-\\d{2}"]}
-{"id": "lot", "label": "LOT", "patterns": ["\\d{7}"]}

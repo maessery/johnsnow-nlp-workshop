@@ -1,1 +1,0 @@
-Databricks Notebook Format (dbc)

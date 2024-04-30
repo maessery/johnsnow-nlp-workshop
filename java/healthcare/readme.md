@@ -1,3 +1,0 @@
-## Spark NLP for Java
-
-
